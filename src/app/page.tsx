@@ -5,7 +5,7 @@ import UploadFile from '@/ui/component';
 export default function Home() {
   return (
     <main className={styles.main}>
-      <UploadFile/>
+      <UploadFile />
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
